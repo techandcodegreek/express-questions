@@ -1,0 +1,26 @@
+html,
+body {
+    height: 100%;
+    margin: 0px;
+}
+
+#app {
+    margin: auto;
+    text-align: center;
+    width: 80%;
+}
+
+#app div {
+    border: 1px solid black;
+    margin: 20px;
+    padding: 5px;
+    cursor: pointer;
+    border-radius: 10px;
+    background-color: white;
+}
+
+body {
+    background: linear-gradient(yellow, orange);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
